@@ -1,0 +1,24 @@
+benchmark size:10
+each: Trial(537.090 ns)
+pop: Trial(536.802 ns)
+benchmark size:100
+each: Trial(549.962 ns)
+pop: Trial(536.332 ns)
+benchmark size:1000
+each: Trial(533.299 ns)
+pop: Trial(537.249 ns)
+benchmark size:10000
+each: Trial(538.409 ns)
+pop: Trial(534.529 ns)
+benchmark size:100000
+each: Trial(533.262 ns)
+pop: Trial(535.862 ns)
+benchmark size:1000000
+each: Trial(536.640 ns)
+pop: Trial(535.249 ns)
+benchmark size:10000000
+each: Trial(534.762 ns)
+pop: Trial(532.667 ns)
+benchmark size:100000000
+each: Trial(536.175 ns)
+pop: Trial(538.771 ns)
